@@ -32,10 +32,6 @@ Este proyecto presenta un **dashboard interactivo en Power BI** que analiza las 
 Los datos fueron obtenidos del portal oficial de datos abiertos del Estado Peruano:  
 👉 [Datos de atenciones realizadas a los asegurados SIS – datos.gob.pe](https://datosabiertos.gob.pe/dataset/datos-de-atenciones-realizadas-los-asegurados-sis)
 
----
-
-## 📸 Vista previa del dashboard
-![Dashboard SIS Perú 2024](Dashboard_SIS.PNG)
 
 ---
 
