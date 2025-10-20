@@ -1,0 +1,27 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.log
+*.bak
+
+# Archivos de Power BI
+*.pbix
+*.pbit
+
+# Archivos Excel grandes
+*.xls
+*.xlsx
+*.xlsb
+*.csv
+
+# Archivos comprimidos
+*.zip
+*.rar
+
+# Carpetas del entorno
+.idea/
+.vscode/
+__pycache__/
